@@ -18,6 +18,7 @@
 
 #  I once worked for a company whih used FTP to transfer loads of files
 #  concurrently. For phun I wrote this using an untested Transfer.pm
+#  Supports SCP and FTP transfers at the moment...OK!
 
 
 use strict;
